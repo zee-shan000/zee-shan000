@@ -1,5 +1,5 @@
 <div align="center">
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+<img width="" height = "" src="https://static.vecteezy.com/system/resources/previews/026/564/515/non_2x/programming-code-coding-or-hacker-sign-programming-code-icon-made-with-binary-code-in-wireframe-hands-digital-binary-data-and-digital-code-matrix-background-with-digits-1-0-illustration-vector.jpg" alt="cover" />
 </div>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1>
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently Working at <b>Sukuk Capital</b> as <b>Frontend Engineer</b>
 
-- 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **Nuxt**, **HTML**, **CSS**, **Bootstrap**,**Figma**
+- 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **NUXT**, **HTML**, **CSS**, **BOOTSTRAP**,**FIGMA**
 
 <br>
 <br>
