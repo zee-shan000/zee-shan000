@@ -7,6 +7,14 @@
 </p>
 
 ### Hello! I am Zeeshan Siddique. I'm a passionated Frontend Engineer :smile:
+<br>
+<p align='center'>
+    Experienced and detail-oriented Frontend Web Developer with over 3 years of hands-on experience in HTML, CSS, Bootstrap, JavaScript, and Nuxt/Vue.js, Node.js. 
+    <br>
+Passionate about crafting exceptional user experiences, I specialize in building robust and scalable applications using Nuxt.js's server-side rendering capabilities.
+    <br>
+I have expertise in writing clean code, implementing responsive designs, and collaborating effectively in agile environments. Let's connect and create outstanding web experiences together.
+</p>
 
 <br>
 <br>
