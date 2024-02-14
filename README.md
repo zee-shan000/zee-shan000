@@ -1,5 +1,8 @@
 <div align="center">
-<img width="" height = "" src="https://static.vecteezy.com/system/resources/previews/026/564/515/non_2x/programming-code-coding-or-hacker-sign-programming-code-icon-made-with-binary-code-in-wireframe-hands-digital-binary-data-and-digital-code-matrix-background-with-digits-1-0-illustration-vector.jpg" alt="cover" />
+<a href="https://drive.google.com/file/d/1W55c1p9QsftMSj-4ch3PBDPFYYswrfBC/view">
+    <img src="https://drive.google.com/file/d/1W55c1p9QsftMSj-4ch3PBDPFYYswrfBC/view"
+    style="width: 500px; max-width: 100%; height: auto" />
+</a>
 </div>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1>
