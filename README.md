@@ -23,7 +23,7 @@ I have expertise in writing clean code, implementing responsive designs, and col
 
 <h2> About Me</h2>
 
-<a href="https://app.daily.dev/zeeshansiddique980"><img src="https://api.daily.dev/devcards/5609126511cd40a584459bb0102313b6.png?r=i0p" width="400" alt="Zeeshan Siddique's Dev Card"/></a>
+<a href="https://app.daily.dev/zeeshansiddique980"><img src="https://api.daily.dev/devcards/v2/JnMAf887FejfS7gbLmEoP.png?r=dnk" width="356" alt="Zeeshan Siddique's Dev Card"/></a>
 
 - 🔭 I’m currently Working at <b>Sukuk Capital</b> as <b>Frontend Engineer</b>
 
