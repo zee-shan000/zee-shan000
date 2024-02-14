@@ -1,8 +1,5 @@
 <div align="center">
-<a href="https://drive.google.com/file/d/1W55c1p9QsftMSj-4ch3PBDPFYYswrfBC/view">
-    <img src="https://drive.google.com/file/d/1W55c1p9QsftMSj-4ch3PBDPFYYswrfBC/view"
-    style="width: 500px; max-width: 100%; height: auto" />
-</a>
+    <img src="https://lh3.googleusercontent.com/d/1W55c1p9QsftMSj-4ch3PBDPFYYswrfBC?authuser=0" />
 </div>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> </h1>
