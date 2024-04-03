@@ -6,10 +6,10 @@
 <p align='center'>
 </p>
 
-### Hello! I am Zeeshan Siddique. I'm a passionated Frontend Engineer :smile:
+### Hello! I am Zeeshan Siddique. I'm a passionated Software Engineer :smile:
 <br>
 <p>
-    Experienced and detail-oriented Frontend Web Developer with over 3 years of hands-on experience in HTML, CSS, Bootstrap, JavaScript, and Nuxt/Vue.js, Node.js. 
+    Experienced and detail-oriented Software Web Developer with over 3 years of hands-on experience in HTML, CSS, Bootstrap, JavaScript, and Nuxt/Vue.js, Node.js. 
     <br>
     <br>
 Passionate about crafting exceptional user experiences, I specialize in building robust and scalable applications using Nuxt.js's server-side rendering capabilities.
@@ -25,7 +25,7 @@ I have expertise in writing clean code, implementing responsive designs, and col
 
 <a href="https://app.daily.dev/zeeshansiddique980"><img src="https://api.daily.dev/devcards/v2/JnMAf887FejfS7gbLmEoP.png?r=dnk" width="356" alt="Zeeshan Siddique's Dev Card"/></a>
 
-- 🔭 I’m currently Working at <b>Sukuk Capital</b> as <b>Frontend Engineer</b>
+- 🔭 I’m currently Working at <b>Sukuk Capital</b> as <b>Software Engineer</b>
 
 - 💬 Ask me about **JAVASCRIPT**, **TYPESCRIPT**, **VUE**, **NUXT**, **HTML**, **CSS**, **BOOTSTRAP**,**FIGMA**
 
